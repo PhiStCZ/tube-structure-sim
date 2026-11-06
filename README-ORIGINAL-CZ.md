@@ -1,13 +1,11 @@
 ### Štrobl Filip
 (předmět: Programování v c++)
-Repozitoř teď bude používána hlavně pro práci na zápočtovém programu.
-
 
 
 # Zápočtový program - fyzická simulace 2d struktur z trubek
 
 ## (IMPORTANT) - Návod na spuštění
-Projekt je závislý na SFML, pokud nemáte nainstalovanou knihovnu, ve složce `exec` je zkompilovaný spustitelný soubor.
+Projekt je závislý na SFML, pro spuštění je tedy třeba si ji stáhnout nebo použít GitHub release obsahující všechny potřebné zkompilované soubory.
 
 Pro spuštění přednastavené simulace spusťte .exe soubor a zadejte mu jméno souboru přednastavené simulace (buď jako argument, nebo do std. vstupu po spuštění). Současně jsou 3 testovací soubory (t1.txt, t2.txt, t3.txt) a 3 ukázkové soubory(e1.txt, e2.txt, e3.txt). (info o vytvoření vlastního souboru simulace níže)
 
